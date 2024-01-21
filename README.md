@@ -1,7 +1,7 @@
 # NOVA
 
 NOVA is a self-hosted, cross-platform media player tailored for local audio streaming. Designed to offer a
-seamless experience for managing and playing your audio files across desktop and mobile devices, NOVA Player combines
+seamless experience for managing and playing your audio files across desktop and mobile devices, NOVA combines
 intuitive library management with powerful playback features.
 
 ## Features

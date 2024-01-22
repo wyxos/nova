@@ -53,6 +53,42 @@ NOVA supports a range of keyboard shortcuts to enhance your music listening expe
 
 Ensure NOVA is focused or running in the background for these shortcuts to work effectively. These shortcuts are designed to integrate seamlessly with your media keys, providing you with quick access to NOVA's features directly from your keyboard.
 
+# NOVA Feature Roadmap
+
+As NOVA grows, I'm focused on enhancing your experience with this self-hosted, cross-platform media player. This roadmap outlines the features I'm planning to introduce, aimed at enriching your audio and video streaming within NOVA.
+
+## Upcoming Features
+
+### Core Enhancements
+- **Mobile Access**: Extend your NOVA experience to your phone with a web-based solution.
+- **Auto Updates**: Simplify keeping NOVA current with automatic updates.
+
+### Planned Improvements
+- **Playlist Management**: Tools for creating and managing playlists with ease.
+- **User Interface Tweaks**: Enhancements like a right-click menu for quick actions and the ability to select multiple items easily.
+- **Video Support**: Bringing video playback into the mix.
+- **Metadata Handling**: Easy editing and updating of song metadata to keep your library organized.
+- **Exercise Timer**: A timer feature for those who like to mix music with workouts.
+- **Media Key Support**: Use your keyboard or headset buttons for hands-free control.
+- **Navigation Links**: Quick links to artist and album views for faster library browsing.
+- **Drag-and-Drop Library Management**: Easily add new content to your library.
+- **Selective Track Deletion**: A feature to remove all tracks rated at a certain level from your library.
+- **Server Management**: Directly control server operations from within NOVA.
+- **Format Compatibility**: Support for a broader range of audio and video formats.
+
+### Additional Features
+- **Tagging and Lyrics**: Better organization and immersive listening with lyrics display.
+- **Album Art**: Visual enhancements for browsing your collection.
+- **Personalized Recommendations**: Exploring the possibility of AI-driven content suggestions.
+- **Content Discovery**: Considering integration with popular services for a richer library.
+- **Sharing and Social Features**: Options to share playlists or songs, with privacy in mind.
+- **Custom Shortcuts**: Tailoring NOVA to fit your workflow with customizable keyboard shortcuts.
+- **Audio Quality Improvements**: Investigating audio normalization and other quality enhancements.
+- **Gesture Controls**: Intuitive controls for mobile users and efficient navigation through tracks.
+
+## Future Direction
+While aiming to make NOVA versatile, there are currently no plans for developing a native mobile app, focusing instead on ensuring broad access through a hybrid approach.
+
 ## Support
 
 Your feedback and suggestions are welcome. While the source code of NOVA is not publicly available, I am keen

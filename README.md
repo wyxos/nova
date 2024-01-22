@@ -37,6 +37,22 @@ Once set up, enter the provided IP address and port in your mobile device's web 
 After installation, launch NOVA, navigate to the Settings screen (bottom cog icon) and add the folder where
 your audio files are located. It will take a moment to index them all.
 
+## Keyboard Shortcuts
+
+NOVA supports a range of keyboard shortcuts to enhance your music listening experience, making it easier to control playback and rate your music without interrupting your workflow. Here are the shortcuts available:
+
+### Rating Tracks
+
+- **Rate a track**: Use `Alt + [1-5]` to rate the current track, where `1` is the lowest rating and `5` is the highest.
+
+### Media Controls
+
+- **Play/Pause**: `MediaPlayPause` toggles play/pause for the current track.
+- **Next Track**: `MediaNextTrack` skips to the next track in your playlist.
+- **Previous Track**: `MediaPreviousTrack` goes back to the previous track.
+
+Ensure NOVA is focused or running in the background for these shortcuts to work effectively. These shortcuts are designed to integrate seamlessly with your media keys, providing you with quick access to NOVA's features directly from your keyboard.
+
 ## Support
 
 Your feedback and suggestions are welcome. While the source code of NOVA is not publicly available, I am keen

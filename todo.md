@@ -1,0 +1,41 @@
+- Must have
+    - [ ] hybrid app for phone
+    - [ ] auto update setup
+- Should have
+    - [ ] Create playlists/smart playlists
+    - [ ] Context menu
+    - [ ] Drag to select
+    - [ ] Play video
+    - [ ] Process meta data on import (artist name, etc)
+    - [ ] Display, edit and refresh from source meta data (artist name, etc)
+    - [ ] Workout timer
+    - [ ] Integration with media keys (keyboard, mobile, earphone)
+    - [ ] link on artist and album name to navigate to artist or album
+    - [ ] drag and drop files/folder into library
+    - [ ] play/skip count
+    - [ ] button to delete all 1 star track
+    - [ ] server management (start/stop/restart/status)
+    - [ ] support licensed audio and video format (wav, etc)
+    - [ ] action to restart app
+- Could have
+    - [ ] Tag management
+    - [ ] Lyrics integration + sync
+    - [ ] Album cover
+    - [ ] AI radio station
+    - [ ] AI suggestions
+    - [ ] Browse popular content services (YT, etc)
+    - [ ] Download/blacklist content
+    - [ ] Share playlist/file
+    - [ ] Ability to customize shortcuts for rating
+    - [ ] Consolidate library
+    - [ ] Timestamp on long tracks + multi rating
+    - [ ] create clips from videos (might be similar to clipping from long audio?)
+    - [ ] frameless app
+    - [ ] manual start of server
+    - [ ] audio normalization
+    - [ ] actions synced between devices
+    - [ ] swipe for next/previous
+    - [ ] incremental fast forward on left/right taps
+- Will not have
+    - [ ] native app for phone
+

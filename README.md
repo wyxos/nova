@@ -1,14 +1,14 @@
 # NOVA
 
-NOVA is a self-hosted, cross-platform media player tailored for local audio streaming. Designed to offer a
-seamless experience for managing and playing your audio files across desktop and mobile devices, NOVA combines
+NOVA is a self-hosted, cross-platform media player tailored for local audio and video streaming. Designed to offer a
+seamless experience for managing and playing your audio and video files across desktop and mobile devices, NOVA combines
 intuitive library management with powerful playback features.
 
 ![NOVA preview](/preview.png "NOVA preview")
 
 ## Features
 
-- **Local Streaming**: Enjoy your audio collection directly from your device, with no need for cloud storage.
+- **Local Streaming**: Enjoy your audio and video collection directly from your device, with no need for cloud storage.
 - **Cross-Platform Compatibility**: Access your music library seamlessly on both desktop and mobile platforms.
 
 ## Getting Started
@@ -37,7 +37,7 @@ Once set up, enter the provided IP address and port in your mobile device's web 
 ### Usage
 
 After installation, launch NOVA, navigate to the Settings screen (bottom cog icon) and add the folder where
-your audio files are located. It will take a moment to index them all.
+your audio/video files are located. It will take a moment to index them all.
 
 ## Keyboard Shortcuts
 
@@ -63,7 +63,6 @@ As NOVA grows, I'm focused on enhancing your experience with this self-hosted, c
 
 ### Core Enhancements
 - **Mobile Access**: Extend your NOVA experience to your phone with a web-based solution.
-- **Auto Updates**: Simplify keeping NOVA current with automatic updates.
 
 ### Planned Improvements
 - **Playlist Management**: Tools for creating and managing playlists with ease.

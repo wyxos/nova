@@ -1,38 +1,40 @@
 - Must have
-    - [ ] hybrid app for phone
-    - [ ] audio normalization
-    - [ ] support licensed audio and video format (wav, etc)
-    - [ ] Play video
-    - [ ] Context menu
+  - [ ] hybrid app for phone
+  - [ ] audio normalization
+  - [ ] support licensed audio and video format (wav, etc)
+  - [ ] Play video
+  - [ ] Context menu
+  - [ ] loading indicator on App start
+  - [ ] progress indicator when importing media
+  - [ ] drag and drop files/folder into library
 - Should have
-    - [ ] Create playlists/smart playlists
-    - [ ] Drag to select
-    - [ ] Process meta data on import (artist name, etc)
-    - [ ] Display, edit and refresh from source meta data (artist name, etc)
-    - [ ] Workout timer
-    - [ ] Integration with media keys (keyboard, mobile, earphone)
-    - [ ] link on artist and album name to navigate to artist or album
-    - [ ] drag and drop files/folder into library
-    - [ ] button to delete all 1 star track
-    - [ ] server management (start/stop/restart/status)
-    - [ ] action to restart app
+  - [ ] Create playlists/smart playlists
+  - [ ] Drag to select
+  - [ ] Process meta data on import (artist name, etc)
+  - [ ] Display, edit and refresh from source meta data (artist name, etc)
+  - [ ] Workout timer
+  - [ ] Integration with media keys (keyboard, mobile, earphone)
+  - [ ] link on artist and album name to navigate to artist or album
+  - [ ] button to delete all 1 star track
+  - [ ] Server management (start/stop/restart/status)
+  - [ ] Action to restart app
 - Could have
-    - [ ] Tag management
-    - [ ] Lyrics integration + sync
-    - [ ] Album cover
-    - [ ] AI radio station
-    - [ ] AI suggestions
-    - [ ] Browse popular content services (YT, etc)
-    - [ ] Download/blacklist content
-    - [ ] Share playlist/file
-    - [ ] Ability to customize shortcuts for rating
-    - [ ] Consolidate library
-    - [ ] Timestamp on long tracks + multi rating
-    - [ ] create clips from videos (might be similar to clipping from long audio?)
-    - [ ] manual start of server
-    - [ ] actions synced between devices
-    - [ ] swipe for next/previous
-    - [ ] incremental fast forward on left/right taps
+  - [ ] Tag management
+  - [ ] Lyrics integration + sync
+  - [ ] Album cover
+  - [ ] AI radio station
+  - [ ] AI suggestions
+  - [ ] Browse popular content services (YT, etc)
+  - [ ] Download/blacklist content
+  - [ ] Share playlist/file
+  - [ ] Ability to customize shortcuts for rating
+  - [ ] Consolidate library
+  - [ ] Timestamp on long tracks + multi rating
+  - [ ] create clips from videos (might be similar to clipping from long audio?)
+  - [ ] manual start of server
+  - [ ] actions synced between devices
+  - [ ] swipe for next/previous
+  - [ ] incremental fast forward on left/right taps
 - Will not have (maybe)
-    - [ ] native app for phone
+  - [ ] native app for phone
 

@@ -16,14 +16,12 @@ intuitive library management with powerful playback features.
 ## Getting Started
 
 ### Installation
-
 The NOVA app is available as a packaged application for desktop platforms. Here's how to get started:
 
 1. Download the latest version of NOVA from the [releases](https://github.com/wyxos/nova/releases) section.
 2. Unpack the downloaded file and run the installer on your desktop.
 
 ### Accessing on Mobile
-
 To access NOVA on your mobile device, you need to perform a few additional steps:
 
 1. Launch NOVA on your desktop and navigate to the settings.

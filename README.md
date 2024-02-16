@@ -114,5 +114,3 @@ Your support, whether through feedback, suggestions, or contributions, is invalu
 
 Thanks to the robust frameworks Vue.js and Electron, NOVA's development and user experience are continually evolving.
 
-https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-26T09192G3624650VMXHO6OA
-

@@ -94,7 +94,6 @@ roadmap outlines the features I'm planning to introduce, aimed at enriching your
 While aiming to make NOVA versatile, there are currently no plans for developing a native mobile app, focusing instead on ensuring broad access through a hybrid approach.
 
 ## Support
-
 Your feedback and suggestions are welcome. While the source code of NOVA is not publicly available, I am keen
 to hear your ideas for features or improvements. If you encounter any issues or have feature requests, please reach out
 through the issue tracker associated with the download platform.

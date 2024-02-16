@@ -1,15 +1,17 @@
 # NOVA
 
-NOVA is a self-hosted, cross-platform media player tailored for local audio and video streaming. Designed to offer a
+NOVA is a self-hosted, cross-platform media server alternative tailored for local audio and video 
+streaming. Designed to offer a
 seamless experience for managing and playing your audio and video files across desktop and mobile devices, NOVA combines
 intuitive library management with powerful playback features.
 
 ![NOVA preview](/preview.png "NOVA preview")
 
-## Features
+## Key Features
 
-- **Local Streaming**: Enjoy your audio and video collection directly from your device, with no need for cloud storage.
-- **Cross-Platform Compatibility**: Access your music library seamlessly on both desktop and mobile platforms.
+- **Self-Hosted Streaming**: Your media, on your terms, with privacy at the forefront.
+- **Cross-Platform Access**: Available for various desktop and mobile platforms.
+- **Intuitive Media Library**: Effortlessly organize and manage your media collections.
 
 ## Getting Started
 
@@ -57,7 +59,8 @@ Ensure NOVA is focused or running in the background for these shortcuts to work 
 
 # NOVA Feature Roadmap
 
-As NOVA grows, I'm focused on enhancing your experience with this self-hosted, cross-platform media player. This roadmap outlines the features I'm planning to introduce, aimed at enriching your audio and video streaming within NOVA.
+As NOVA grows, I'm focused on enhancing your experience with this self-hosted, cross-platform media server. This 
+roadmap outlines the features I'm planning to introduce, aimed at enriching your audio and video streaming within NOVA.
 
 ## Upcoming Features
 
@@ -96,8 +99,20 @@ Your feedback and suggestions are welcome. While the source code of NOVA is not 
 to hear your ideas for features or improvements. If you encounter any issues or have feature requests, please reach out
 through the issue tracker associated with the download platform.
 
+While NOVA is freely available as freeware, its development is fueled by the passion for creating a versatile and user-friendly media solution. Maintaining and expanding NOVA takes considerable time and effort. If you find NOVA useful and would like to support its ongoing development, contributions are greatly appreciated.
+
+You can support NOVA through the following channels:
+
+Patreon: Join our Patreon community and get involved with NOVA's development journey. Your support on Patreon helps 
+sustain long-term improvements and feature expansions. [Become a Patron](https://www.patreon.com/wyxos)
+
+PayPal Subscription: Prefer a one-time contribution? You can support NOVA directly through PayPal. Every bit helps in keeping the project alive and kicking. [Support NOVA on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-26T09192G3624650VMXHO6OA)
+
+Your support, whether through feedback, suggestions, or contributions, is invaluable. It not only helps improve NOVA but also motivates ongoing development. Thank you for considering supporting NOVA!
+
 ## Acknowledgments
 
-- Special thanks to Vue.js for powering the app's dynamic interfaces.
-- Gratitude to Electron for enabling cross-platform desktop app development.
+Thanks to the robust frameworks Vue.js and Electron, NOVA's development and user experience are continually evolving.
+
+https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-26T09192G3624650VMXHO6OA
 

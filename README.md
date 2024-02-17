@@ -92,20 +92,19 @@ roadmap outlines the features I'm planning to introduce, aimed at enriching your
 While aiming to make NOVA versatile, there are currently no plans for developing a native mobile app, focusing instead on ensuring broad access through a hybrid approach.
 
 ## Support
-Your feedback and suggestions are welcome. While the source code of NOVA is not publicly available, I am keen
-to hear your ideas for features or improvements. If you encounter any issues or have feature requests, please reach out
-through the issue tracker associated with the download platform.
+Your feedback and suggestions are most welcome. While the source code of NOVA is not publicly available, your ideas for features or improvements are important. Please reach out through the issue tracker for any issues or feature requests.
 
-While NOVA is freely available as freeware, its development is fueled by the passion for creating a versatile and user-friendly media solution. Maintaining and expanding NOVA takes considerable time and effort. If you find NOVA useful and would like to support its ongoing development, contributions are greatly appreciated.
+NOVA is a freeware, developed out of a passion to create a versatile media solution. The development takes significant time and effort. If you find NOVA useful and wish to support its continued development, contributions are appreciated.
 
-You can support NOVA through the following channels:
+You can support NOVA through these channels:
 
-Patreon: Join our Patreon community and get involved with NOVA's development journey. Your support on Patreon helps 
-sustain long-term improvements and feature expansions. [Become a Patron](https://www.patreon.com/wyxos)
+- **GitHub Sponsorship**: Click the "Sponsor" button at the top of the GitHub repository to contribute.
 
-PayPal Subscription: Prefer a one-time contribution? You can support NOVA directly through PayPal. Every bit helps in keeping the project alive and kicking. [Support NOVA on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-26T09192G3624650VMXHO6OA)
+- **Patreon**: [Become a Patron](https://www.patreon.com/wyxos) to join the community and support long-term development.
 
-Your support, whether through feedback, suggestions, or contributions, is invaluable. It not only helps improve NOVA but also motivates ongoing development. Thank you for considering supporting NOVA!
+- **PayPal**: For one-time contributions, [support NOVA on PayPal](https://paypal.me/jjaulimsing?country.x=MU&locale.x=en_US). For recurring contributions, [subscribe on PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-26T09192G3624650VMXHO6OA).
+
+Your support, through feedback, suggestions, or contributions, is invaluable. Thank you for considering supporting NOVA!
 
 ## Acknowledgments
 
